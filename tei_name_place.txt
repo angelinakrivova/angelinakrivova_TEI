@@ -1,0 +1,262 @@
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Чесмесский бой</title>
+			</titleStmt>
+			<respStmt>
+				<persName>Ангелина Кривова</persName>
+				<resp>Cоздание TEI документа, выделение в тексте персоналий/мест</resp>
+			</respStmt>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson type=“historical”>
+					<person xml : id=“14.03”>
+						<persName>нас</persName>
+					</person>
+ 					<person xml : id=“02”>
+						<persName>она</persName>
+					</person>
+					<person xml : id=“03”>
+						<persName>любезный брат</persName>
+					</person>
+					<person xml : id=“04.01”>
+						<persName>он</persName>
+					</person>
+					<person xml : id=“04.02”>
+						<persName>нем</persName>
+					</person>
+					<person xml : id=“04.03”>
+						<persName>ему</persName>
+					</person>
+					<person xml : id=“04.04”>
+						<persName>мне</persName>
+					</person>
+					<person xml : id=“04.05”>
+						<persName>я</persName>
+					</person>
+					<person xml : id=“04.06”>
+						<persName>мной</persName>
+					</person>
+					<person xml : id=“05”>
+						<persName>него</persName>
+					</person>
+					<person xml : id=“06”>
+						<persName>Козловский князь</persName>
+					</person>
+					<person xml : id=“06.01”>
+						<persName>тебя</persName>
+					</person>
+					<person xml : id=“06.02”>
+						<persName>ты</persName>
+					</person>
+					<person xml : id=“06.03”>
+						<persName>Козловский</persName>
+					</person>
+					<person xml : id=“07.01”>
+						<persName>он</persName>
+					</person>
+					<person xml : id=“07.02”>
+						<persName>Отец</persName>
+					</person>
+					<person xml : id=“07.03”>
+						<persName>старца</persName>
+					</person>
+					<person xml : id=“07.01”>
+						<persName>турецкого дракона</persName>
+					</person>
+					<person xml : id=“07.02”>
+						<persName>он</persName>
+					</person>
+					<person xml : id=“07.03”>
+						<persName>нем</persName>
+					</person>
+					<person xml : id=“07.04”>
+						<persName>ним</persName>
+					</person>
+					<person xml : id=“08”>
+						<persName>Россиян</persName>
+					</person>
+					<person xml : id=“09”>
+						<persName>Степанов</persName>
+					</person>
+					<person xml : id=“19.01”>
+						<persName>Степановым</persName>
+					</person>
+					<person xml : id=“10”>
+						<persName>Российский гений</persName>
+					</person>
+					<person xml : id=“10.01”>
+						<persName>он</persName>
+					</person>
+					<person xml : id=“11”>
+						<persName>Гассан</persName>
+					</person>
+					<person xml : id=“12”>
+						<persName>Махмет</persName>
+					</person>
+					<person xml : id=“13”>
+						<persName>Срацины</persName>
+					</person>
+					<person xml : id=“13.02”>
+						<persName>Срацинам</persName>
+					</person>
+					<person xml : id=“13.01”>
+						<persName>они</persName>
+					</person>
+					<person xml : id=“14.01”>
+						<persName>муза</persName>
+					</person>
+					<person xml : id=“14.02”>
+						<persName>ты</persName>
+					</person>
+					<person xml : id=“15.01”>
+						<persName>Гектор</persName>
+					</person>
+					<person xml : id=“15.02”>
+						<persName>он</persName>
+					</person>
+				</listPerson>
+				<listPlace>
+					<placeName>Чесмесски волны</placeName>
+					<placeName>Илиона</placeName>
+					<placeName>Трои</placeName>
+				</listPlace>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+</TEI>
+                        
+                        
+                        
+				
+И требует от <person xml : id=“01”><persName>нас</persName></person> отмщения <person xml : id=“02”><persName>она</persName></person>:
+Пойдем, <person xml : id=“03”><persName>любезный брат</persName></person>! злодеев востревожим,
+Отмстим за братиев иль жизнь за них положим!»
+Уже <person xml : id=“04.01”><persName>он</persName></person> мыслями злодеям вслед летел
+И медлить мщением в пучине не хотел;
+Но видит, что вдали бросают волны тело,
+<person xml : id=“04.01”><persName>он</persName></person> смотрит на <person xml : id=“05”><persName>него</persName></person>— в   <person xml : id=“04.02”><persName>нем</persName></person> сердце закипело;
+Трепещет, стонет <person xml : id=“04.01”><persName>он</persName></person>, на волны обратясь,
+И кажется <person xml : id=“04.03”><persName>ему</persName></person> вдали <person xml : id=“06”><persName>Козловский князь</persName></person>!
+Смущает душу в <person xml : id=“04.02”><persName>нем</persName></person> свирепая судьбина;
+«Увы! — <person xml : id=“07.01”><persName>он</persName></person> рек,— <person xml : id=“06.01”><persName>тебя</persName></person> как брата <person xml : id=“04.04”><persName>мне</persName></person>, как сына,
+<person xml : id=“07.02”><persName>Отец</persName></person> твой мне <person xml : id=“06.01”><persName>тебя</persName></person>, любезный друг, вручил.
+</person><person xml : id=“06.02”><persName>ты</persName></person> умер! <person xml : id=“07.03”><persName>старца</persName></person> <person xml : id=“04.05”><persName>я</persName></person> навеки огорчил!»
+Ах! будь позорище сие пустой мечтою,
+<person xml : id=“06.03”><persName>Козловский</persName></person>
+может быть не поглощен волною!
+Когда же скрылся <person xml : id=“06.02”><persName>ты</persName></person> навек в морских волнах,
+Так гроб твой у твоих друзей теперь в сердцах.
+
+О <person xml : id=“14.01”><persName>муза</persName></person>! удались от жалостных явлений,
+С слезами не сливай войне приличных пений,
+И жалобы твои и слезы прекрати,
+Со <person xml : id=“04.06”><persName>мной</persName></person> в турецкий флот, ко Чесме прелети.
+Кровавую войну и битвы ненавижу;
+Но следствия ее во смутном духе вижу,
+<person xml : id=“04.05”><persName>я</persName></person> вижу в кораблях отчаянье, тоску,
+Разбросанны тела по желтому песку!
+
+Средь понта вижу <person xml : id=“04.05”><persName>я</persName></person> <person xml : id=“07.01”><persName>турецкого дракона</persName></person>,
+<person xml : id=“07.02”><persName>он</persName></person>
+стонет у брегов, не прерывая стона.
+Томится мутный дух, и сердце в <person xml : id=“07.03”><persName>нем</persName></person> дрожит,
+Пронзенный в грудь мечом в крови своей лежит.
+Смыкаются его отравой полны очи,
+Над <person xml : id=“07.04”><persName>ним</persName></person>
+простерся мрак и сени вечной ночи;
+Мутится там вода и вянет вкруг трава,
+Где томная лежит драконова глава;
+Орловыми глава во брани изъязвленна,
+Скрываяся от них, быть чает исцеленна.
+Таков турецкий флот был робок, но кичлив,
+Ушед от кораблей российских в свой залив,
+Еще вокруг себя он прежни громы внемлет
+И каждую струю за наш корабль приемлет,
+И тени собственны, и ветров легкий шум
+
+<person xml : id=“08”><persName>Россиян</persName></person> с молнией изображает ум.
+<person xml : id=“09”><persName>Степанов</persName></person>
+страх и смерть понес в <placeName>Чесмесски волны</placeName>,
+Которы ужасом, бедами, кровью полны.
+
+<person xml : id=“10”><persName>Российский гений</persName></person>
+в понт с <person xml : id=“19.01”><persName>Степановым</persName></person> летит,
+Кровавы воды в огнь <person xml : id=“10.01”><persName>он</persName></person> скоро превратит.
+Полночными в бою ударами разженна,
+Луна багровеет, серпом изображенна;
+Чернеет океан вкруг робких кораблей;
+Кровавая роса сгустилась над землей;
+Теченье косно в мир блистательного Феба,
+И кажется, в валы валятся звезды с неба;
+Ревет глубокий понт, и стонут берега;
+В дыму им видятся и горы, и луга;
+Всё кажет смерти вид, всё туркам страх наводит;
+Но черный яд из уст драконовых исходит;
+Единым оком <person xml : id=“07.02”><persName>он</persName></person> заснув, другим не спит,
+Российский видя флот, места свои крепит.
+И стыд его в волнах, и злоба угрызает;
+Пронзен копьем, еще <person xml : id=“07.02”><persName>он</persName></person> двигаться дерзает,
+<person xml : id=“07.02”><persName>он</persName></person> хочет шествие россиянам препнуть,
+Подъемлет <person xml : id=“07.02”><persName>он</persName></person> главу, свою подъемлет грудь.
+<person xml : id=“11”><persName>Гассан</persName></person>, <person xml : id=“11”><persName>Гассан</persName></person>, тебя отважность не избавит.
+Твоей судьбой <person xml : id=“12”><persName>Махмет</persName></person>
+, а нашей бог наш правит.
+Пускай горит земля, волнует океан,
+Ничто не устрашит отважных <person xml : id=“08”><persName>Россиян</persName></person>.
+
+<person xml : id=“13”><persName>Срацины</persName></person> с ужасом в пристанище сокрылись,
+Не укротилися <person xml : id=“13.01”><persName>они</persName></person>— остервенились;
+О защищении к пророку вопиют,
+Но посреде молитв лишь только слезы льют.
+Стенания в бою погибели предтеча,
+В чем скоро убедит срацин кровава сеча!
+Кто смел российскую Минерву раздражить,
+Тот казни заслужил и недостоин жить,
+Потомки казнь терпеть Агарины достойны,
+Они в уме всегда строптивы, беспокойны.
+Готовы молнии, уже готов удар,
+К ним искра упадет и воспалит пожар,
+Затмится и Луна, и гордость Оттоманов.
+Пришел и снял с брегов оружия <person xml : id=“09”><persName>Степанов</persName></person>...
+Простерла мраки ночь!..Но, <person xml : id=“14.01”><persName>муза</persName></person>, отдохни,
+<person xml : id=“14.02”><persName>ты</persName></person> брани петь должна, страх, ужасы, огни.
+
+ПЕСНЬ ПЯТАЯ
+
+Разрушить гордые ограды <placeName>Илиона</placeName>
+Сходила в облаках блестящая Юнона;
+И, <placeName>Трои</placeName> истребить хотящая вконец.
+Ахейских мщение возжгла она сердец.
+Преополчилися бессмертные герои
+На разорение обманчивыя Трои.
+Минерву в облаке наш флот над понтом зрит,
+Екатеринин дух пред ним к Чесме парит;
+Но греческих градов не хочет разоренья,
+Парит кичливости срацинской для смиренья.
+Когда сокрылося в волнах светило дни,
+В сердцах геройские возжгла <person xml : id=“14.03”><persName>нас</persName></person> огни.
+И храбрый <person xml : id=“15.01”><persName>Гектор</persName></person> пал, <person xml : id=“15.02”><persName>он</persName></person> пал под Илионом,
+И стены рушились, взведенны Аполлоном;
+От россов туркам ли сокрыться в кораблях?
+У них Паллада их и в мыслях, и в сердцах.
+
+Представь, о <person xml : id=“14.01”><persName>муза</persName></person>! <person xml : id=“04.04”><persName>мне</persName></person> позорище плачевно,
+Где битвы, где пожар, где кровь, где море гневно,
+Средь флотов на крылах в ночи остановись,
+Тех робости, других бесстрашию дивись.
+
+Уже простерлася над понтом риза ночи,
+Отверзлися небес недремлющие очи,
+Луна дрожащая открыла бледный зрак,
+<person xml : id=“13.02”><persName>Срацинам</persName></person> пущий страх ночной наводит мрак,
+От их смущенных душ спокойствие уходит;
+Их малый шум в струях в отчаянье приводит,
+Хотят, чтоб ввек от нас их скрыла ночи тень,
+Хотят, чтоб им явил движенья наши день,
+Хотят отдаться в плен, сражаться с нами чают,
+Хотят — и ничего умом не заключают.
+В волнениях души, в смятении сердец
+Умреть иль победить решились наконец,
