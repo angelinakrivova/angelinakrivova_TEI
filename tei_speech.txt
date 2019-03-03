@@ -1,0 +1,21 @@
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Кавказские повести</title>
+			</titleStmt>
+			<respStmt>
+				<persName>Ангелина Кривова</persName>
+				<resp>Cоздание TEI документа, выделение в тексте прямой речи</resp>
+			</respStmt>
+		</fileDesc>
+	<text>
+	<speech>
+		<said type=“direct” aloud=“true”> — Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмортри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
+	</speech>
+	<speech>
+		<said aloud=“true” type=“direct”> — Нет, ами <author_comment>дядя</author_comment>! Запад голубее глаз моей сестрицы. Солнце упало ярко, словно «золотой цвет» на её груди. Ни один взор его не гаснет в тумане.</said>
+	</speech>
+	</text>
+	</teiHeader>        
+</TEI>
